@@ -1,0 +1,95 @@
+form{
+    width: 670px;
+    margin: 0 auto;
+    background-color: rgba(220, 220, 220, 0);
+    border-radius: 5px;
+    height: 390px;
+    border: 1px solid gainsboro;
+}
+label{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.input1{
+    display: inline-block;
+    margin-left: 15px;
+}
+.input2{
+    display: inline-block;
+    
+    
+}
+.input3{
+    display: inline-block;
+    margin-left: 15px;
+}
+.input4{
+    display: inline-block;
+    
+}
+.input{
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+    
+}
+.input:hover{
+    background-color: gainsboro;
+
+}
+.input7:hover{
+    background-color: gainsboro;
+}
+.input8:hover{
+    background-color: gainsboro;
+}
+.input5{
+    margin-left: 15px;
+}
+.input6{
+    margin-left: 15px;
+}
+.input7{
+    width: 620px;
+    margin-left: 10px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+}
+.input8{
+    width: 620px;
+    margin-left: 10px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border: 1px solid gainsboro;  
+}
+.checkbox{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#submit{
+    margin-left: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color: aqua;
+    
+}
+#submit:active{
+    color: black;
+    background-color: aqua;
+}
+.span{
+    color: aqua;
+}
